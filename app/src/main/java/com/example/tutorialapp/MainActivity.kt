@@ -64,8 +64,8 @@ class MainActivity : ComponentActivity() {
                                 }
                             }) { Text(text = "Add") }
                         }
-                    }
                     ListNames(names = names)
+                    }
                 }
             }
         }
